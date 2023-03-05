@@ -1,0 +1,21 @@
+vim new.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   	<name>OSergey</name>
+   	<surname>Pyshkin</surname>
+   	<age>28</age>
+   	<pets>1</pets>
+   	<salary>900</salary>
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
